@@ -3,7 +3,7 @@ title: "SYNAPSE — An MVP kernel for agentic AI in cyber-physical systems"
 subtitle: "Final Paper"
 author:
   - Jonathan Wilson
-  - Et al.
+  - Johnny J. Parker Lee
 date: "2026-11-01"
 date-format: "MMMM D, YYYY"
 format:
@@ -30,21 +30,6 @@ lightbox: true
 ## 🚧 Paper Under Construction
 
 Planned completion by ...
-:::
-
-:::: {.content-visible when-format="html"}
-::: {.callout-note appearance="minimal"}
-**Course:** ME 575
-**Instructor:** Dr. Missy Cummings
-**Institution:** George Mason University
-:::
-::::
-
-:::: {.content-visible when-format="pdf"}
-::: {.callout-note appearance="minimal"}
-**Course:** ME 575
-**Instructor:** Dr. Missy Cummings
-**Institution:** George Mason University
 :::
 
 ```{=latex}
