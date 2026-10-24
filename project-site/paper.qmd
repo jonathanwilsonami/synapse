@@ -1,0 +1,102 @@
+---
+title: "SYNAPSE — An MVP kernel for agentic AI in cyber-physical systems"
+subtitle: "Final Paper"
+author:
+  - Jonathan Wilson
+  - Et al.
+date: "2026-11-01"
+date-format: "MMMM D, YYYY"
+format:
+  html:
+    toc: true
+    number-sections: true
+    link-citations: true
+  pdf:
+    documentclass: article
+    fontsize: 12pt
+    linestretch: 1.0
+    geometry: margin=1in
+    number-sections: true
+    toc: false
+    fig-pos: "H"
+    link-citations: true
+    include-in-header: pdf-header.tex
+bibliography: references.bib
+cite-method: citeproc
+lightbox: true
+---
+
+::: {.callout-warning}
+## 🚧 Paper Under Construction
+
+Planned completion by ...
+:::
+
+:::: {.content-visible when-format="html"}
+::: {.callout-note appearance="minimal"}
+**Course:** ME 575
+**Instructor:** Dr. Missy Cummings
+**Institution:** George Mason University
+:::
+::::
+
+:::: {.content-visible when-format="pdf"}
+::: {.callout-note appearance="minimal"}
+**Course:** ME 575
+**Instructor:** Dr. Missy Cummings
+**Institution:** George Mason University
+:::
+
+```{=latex}
+\thispagestyle{empty}
+```
+
+{{< pagebreak >}}
+::::
+
+:::: {.content-visible when-format="docx"}
+::: {.callout-note appearance="minimal"}
+**Course:** ME 575
+**Instructor:** Dr. Missy Cummings
+**Institution:** George Mason University
+:::
+
+{{< pagebreak >}}
+::::
+
+# Abstract {.unnumbered}
+
+_TODO_
+
+# Introduction
+
+_TODO_
+
+# Related Work
+
+_TODO_
+
+# System Architecture
+
+_TODO_
+
+# Methods
+
+_TODO_
+
+# Evaluation and Results
+
+_TODO_
+
+# Discussion
+
+_TODO_
+
+# Conclusion and Future Work
+
+_TODO_
+
+# References {.unnumbered}
+
+::: {#refs}
+:::

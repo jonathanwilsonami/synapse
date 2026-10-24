@@ -1,0 +1,17 @@
+---
+title: "About Project SYNAPSE"
+page-navigation: false
+toc: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+---
+
+:::{#hero-heading}
+
+_TODO: about the project and team._
+
+:::

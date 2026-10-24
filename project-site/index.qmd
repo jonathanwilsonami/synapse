@@ -1,0 +1,13 @@
+---
+title: "Home"
+---
+
+# Welcome
+
+Welcome to Project SYNAPSE!
+
+SYNAPSE is an MVP kernel for agentic AI in cyber-physical systems.
+
+_TODO: project overview._
+
+![SYNAPSE MVP architecture](images/design/agentic_cps_kernel_mvp.svg)
